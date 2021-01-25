@@ -19,7 +19,6 @@ namespace Activity1Part3.Services.Data
             SqlCommand command = new SqlCommand("SELECT * FROM dbo.Users WHERE USERNAME = '" + username + "' AND PASSWORD = '" + password + "';", conn);
             conn.Open();
             SqlDataReader reader = command.ExecuteReader();
-            conn.Close();
 
             if (reader.HasRows)
                 return true;
