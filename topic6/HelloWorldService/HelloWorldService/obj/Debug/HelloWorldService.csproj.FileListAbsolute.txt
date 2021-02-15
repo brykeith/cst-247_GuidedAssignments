@@ -1,0 +1,7 @@
+C:\Users\bryke\Desktop\OneDrive - Grand Canyon University\CST-247\Topic 6\t6_Activity\HelloWorldService\HelloWorldService\bin\HelloWorldService.dll.config
+C:\Users\bryke\Desktop\OneDrive - Grand Canyon University\CST-247\Topic 6\t6_Activity\HelloWorldService\HelloWorldService\bin\HelloWorldService.dll
+C:\Users\bryke\Desktop\OneDrive - Grand Canyon University\CST-247\Topic 6\t6_Activity\HelloWorldService\HelloWorldService\bin\HelloWorldService.pdb
+C:\Users\bryke\Desktop\OneDrive - Grand Canyon University\CST-247\Topic 6\t6_Activity\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.csprojAssemblyReference.cache
+C:\Users\bryke\Desktop\OneDrive - Grand Canyon University\CST-247\Topic 6\t6_Activity\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.csproj.CoreCompileInputs.cache
+C:\Users\bryke\Desktop\OneDrive - Grand Canyon University\CST-247\Topic 6\t6_Activity\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Users\bryke\Desktop\OneDrive - Grand Canyon University\CST-247\Topic 6\t6_Activity\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.pdb
