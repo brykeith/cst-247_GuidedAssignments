@@ -1,0 +1,11 @@
+2021-02-16 19:30:18.6816 INFO Controller name: Login Action name: Login
+2021-02-16 19:30:18.6991 INFO Entering the login Controller. Login Method
+2021-02-16 19:30:19.3690 INFO Exit login Controller. Login Success!
+2021-02-16 19:30:19.3690 INFO Controller name: Login Action name: Login
+2021-02-16 19:32:42.1172 INFO testing logger.info within index method of TestLogginService1Controller.cs
+2021-02-16 19:43:40.7291 INFO testing logger.info within index method of TestLogginService2Controller.cs
+2021-02-16 19:43:48.8192 INFO testing logger.info within index method of TestLogginService2Controller.cs
+2021-02-16 19:43:50.5093 INFO testing logger.info within index method of TestLogginService2Controller.cs
+2021-02-16 19:44:09.0882 INFO testing logger.info within index method of TestLogginService2Controller.cs
+2021-02-16 19:54:31.7044 INFO testing logger.info within index method of TestLogginService3Controller.cs
+2021-02-16 19:54:31.7194 INFO Test Logging in TestService.TestLogger() invoked.
