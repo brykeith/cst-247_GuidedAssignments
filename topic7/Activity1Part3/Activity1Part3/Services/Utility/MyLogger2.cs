@@ -9,8 +9,7 @@ namespace Activity1Part3.Services.Utility
     public class MyLogger2 : ILogger
     {
 
-        // singleton pattern example. Only one instance of this class can be Instanciated
-        private Logger logger; // static variable to hold a single instance of the nLog logger
+        private Logger logger; 
 
 
 

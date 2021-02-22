@@ -23,7 +23,6 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <EnableWcfTestClientForSVC>False</EnableWcfTestClientForSVC>
           <StartPageUrl>
           </StartPageUrl>
           <StartAction>CurrentPage</StartAction>
@@ -41,6 +40,7 @@
           </StartWorkingDirectory>
           <EnableENC>True</EnableENC>
           <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+          <EnableWcfTestClientForSVC>False</EnableWcfTestClientForSVC>
         </WebProjectProperties>
       </FlavorProperties>
     </VisualStudio>
